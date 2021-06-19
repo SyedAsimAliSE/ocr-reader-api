@@ -1,0 +1,20 @@
+.git
+.idea
+coverage
+README.md
+
+# Node Files #
+node_modules
+npm-debug.log
+npm-debug.log.*
+
+*.env*
+.prettierignore
+/.prettierrc
+.eslintignore
+.eslintrc.js
+nest-cli.json
+nodemon-debug.json
+nodemon.json
+.gitignore
+.dockerignore
